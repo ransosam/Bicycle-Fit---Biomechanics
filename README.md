@@ -11,10 +11,7 @@ Cycling at an optimal saddle height creates favorable performance conditions and
     - METABOLIC.pdf
     - BIKE_EMG_ANOVA.pdf
 
-##Contributors
+## Contributors
 - Sam Ransohoff
 - Andrew Stein
 - Ricky Spradling
-
-
-### Contents
